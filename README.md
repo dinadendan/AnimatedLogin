@@ -1,16 +1,10 @@
 # animated_login
 
 A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ ## Screenshots
+ - When password is entered:
+ - <img src="https://github.com/user-attachments/assets/aa6c435c-629e-4663-abcb-5f99ed6e8107" width="200"/>
+ - When state is success:
+ - <img src="https://github.com/user-attachments/assets/569ee94b-b789-4c6f-a3f2-afc8f82c65d7" width="200"/>
+ - When state is fail:
+ - <img src="https://github.com/user-attachments/assets/ba98fe26-7cce-4d58-a0a8-10c0b3fdc31e" width="200"/>
