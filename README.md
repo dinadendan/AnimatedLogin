@@ -1,6 +1,5 @@
-# animated_login
+# AnimatedLogin using rive  
 
-A new Flutter project.
  ## Screenshots
  - When password is entered:
  - <img src="https://github.com/user-attachments/assets/aa6c435c-629e-4663-abcb-5f99ed6e8107" width="200"/>
